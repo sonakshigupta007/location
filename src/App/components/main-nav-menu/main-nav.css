@@ -1,0 +1,13 @@
+.filters {
+  display: flex;
+  justify-content: space-between;
+}
+.icons {
+  display: flex;
+  width: 40px;
+  justify-content: space-between;
+}
+.verticalPosition {    
+  writing-mode: vertical-rl;
+  text-orientation: upright;
+}
